@@ -1,0 +1,1 @@
+CRUD formation which entails the access on the admin can the authorization to the informations which entered by users in Web page. Where by CRUD means Create, Read, Update and DELETE.CRUD seems to direct the users on data entered in Web server, hence maintained. 
